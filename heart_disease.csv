@@ -1,0 +1,15 @@
+age,Age in years
+Gender,"Gender ; Male - 1, Female -0"
+cp,Chest pain type
+trestbps,Resting blood pressure
+chol,cholesterol measure
+fbs,(fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+restecg,"ecg observation at resting condition,   -- Value 0: normal
+        -- Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+        -- Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria"
+thalch,maximum heart rate achieved
+exang,exercise induced angina
+oldpeak,ST depression induced by exercise relative to rest
+slope,the slope of the peak exercise ST segment
+thal,Thal
+num,"target [0=no heart disease; 1,2,3,4 = stages of heart disease ]"
